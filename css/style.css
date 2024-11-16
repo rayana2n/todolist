@@ -1,0 +1,37 @@
+.todo-container{
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#todoList{
+    list-style-type: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-style: italic;
+}
+
+#todoInput{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#todoBtn{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#addTodoBtn{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.removeBtn{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
